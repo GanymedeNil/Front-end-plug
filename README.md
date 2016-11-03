@@ -7,7 +7,7 @@
 
 - vue.js
 
-http://cn.vuejs.org/guide/index.htmlvu
+http://cn.vuejs.org/guide/index.html
 
 - vue2.js
 
