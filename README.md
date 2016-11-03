@@ -7,7 +7,12 @@
 
 - vue.js
 
-http://cn.vuejs.org/guide/index.html
+http://cn.vuejs.org/guide/index.htmlvu
+
+- vue2.js
+
+https://www.vuefe.cn/
+
 
 ## 功能类 ##
 - 进度条
